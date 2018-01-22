@@ -3,6 +3,7 @@
 </p>
 
 # JavaScript Cookie [![Build Status](https://travis-ci.org/js-cookie/js-cookie.svg?branch=master)](https://travis-ci.org/js-cookie/js-cookie) [![Code Climate](https://codeclimate.com/github/js-cookie/js-cookie.svg)](https://codeclimate.com/github/js-cookie/js-cookie) [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/js-cookie/badge?style=rounded)](https://www.jsdelivr.com/package/npm/js-cookie)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fjs-cookie.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fjs-cookie?ref=badge_shield)
 
 A simple, lightweight JavaScript API for handling cookies
 
@@ -302,3 +303,7 @@ For vulnerability reports, send an e-mail to `jscookieproject at gmail dot com`
 * [Klaus Hartl](https://github.com/carhartl)
 * [Fagner Brack](https://github.com/FagnerMartinsBrack)
 * And awesome [contributors](https://github.com/js-cookie/js-cookie/graphs/contributors)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fjs-cookie.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fjs-cookie?ref=badge_large)
